@@ -1,6 +1,6 @@
 # bibstd
 
-![Logo](docs/icons/512x512/bibstd.png)
+![Logo](docs/icons/256x256/bibstd.png)
 
 A small BibTeX parser and formatter built with Flex and Bison.
 
